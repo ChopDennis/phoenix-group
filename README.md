@@ -1,4 +1,4 @@
-# phoenix-group
+# phoenix-group with Vue 3.0 TypeScript
 
 ## Project setup
 ```
